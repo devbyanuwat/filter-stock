@@ -1,7 +1,7 @@
 {
   "name": "filter-stock",
   "version": "0.1.0",
-  "homepage": "https://devbyanuwat.github.io/filter-stock/src/app.js",
+  "homepage": "https://devbyanuwat.github.io/filter-stock/",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
